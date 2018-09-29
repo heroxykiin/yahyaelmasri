@@ -1,0 +1,63 @@
+body {
+	
+	
+	margin: 0;
+	
+	padding: 0;
+	
+background: url(sp_bk.jpg);
+	
+	background-size: cover;
+	background-position:center;
+	font-family:sans-serif;
+	
+}
+
+
+.naser{
+	
+	width: 500px;
+	height:700px;
+	background #000;
+	
+    
+	
+	color: #fff;
+	
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 70px 30px;
+}
+
+<BR>
+<BR>
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+.said {
+	
+	width: 500px;
+	height:50px;
+	background #000;
+	
+    
+	
+	color: #fff;
+	
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 100px 30px;
+	
+	
+}
